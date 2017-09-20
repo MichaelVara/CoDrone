@@ -13,3 +13,5 @@
 ## Configuration: 20 minutes
 
 ## Problème rencontré: Impossible de détecter la carte et donc impossible de téléverser le moindre code
+## Solution trouvé: utiliser un autre câble car le câble fournit n'était pas compatible
+## Temps perdu: 2 jours
