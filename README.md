@@ -27,9 +27,9 @@
 ## Problème rencontré: le drone dévie sur le côté
 ## Solution: Visiblement, il faut absolument un sol dur pour le garder stable
 ## Temps perdu: 1 heure
-
-
-## Projet 2
+##
+##
+# Projet 2
 ## Description: Le drone va effectuer quelques mouvement aérien de bases et se reposer
 ##
 ## Lecture de la théorie: 20 minutes
@@ -37,9 +37,9 @@
 ## Test des valeurs pour la rotation: 5 minutes
 ## Test des valeurs pour le déplacement avant / arrière: 10 minutes
 ## Test des valeurs pour les déplacements latéraux: 10 minutes
-
-
-## Projet 3
+##
+##
+# Projet 3
 ## Nom: Contrôle
 ## Description: Le drone est contrôlé à l'aide des joysticks de la télécommande
 ##
@@ -48,3 +48,12 @@
 ## Contrôle de la hauteur: 25 minutes
 ## Contrôle de la roation: 15 minutes
 ## Contrôle des déplacements latéraux: 10 minutes
+##
+##
+# Projet 4
+## Nom: Code Finale Bases
+## Description: Le drone est contrôlé à l'aide des joysticks de la télécommande et émet un petit bruitage lorsque la connexion au drone est établie et continuera de tenter de se connecter tant que ce ne sera pas fait
+##
+## Base: Projet 3
+## Réglages du petit bruitage: 10 minutes
+## Connexion continu: 10 minutes
