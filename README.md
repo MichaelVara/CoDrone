@@ -27,3 +27,13 @@
 ## Problème rencontré: le drone dévie sur le côté
 ## Solution: Visiblement, il faut absolument un sol dur pour le garder stable
 ## Temps perdu: 1 heure
+
+
+## Projet 2
+## Description: Le drone va effectuer quelques mouvement aérien de bases et se reposer
+##
+## Lecture de la théorie: 20 minutes
+## Test des valeurs pour la hauteur: 20 minutes
+## Test des valeurs pour la rotation: 5 minutes
+## Test des valeurs pour le déplacement avant / arrière: 10 minutes
+## Test des valeurs pour les déplacements latéraux: 10 minutes
