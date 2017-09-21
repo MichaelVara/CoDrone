@@ -37,3 +37,14 @@
 ## Test des valeurs pour la rotation: 5 minutes
 ## Test des valeurs pour le déplacement avant / arrière: 10 minutes
 ## Test des valeurs pour les déplacements latéraux: 10 minutes
+
+
+## Projet 3
+## Nom: Contrôle
+## Description: Le drone est contrôlé à l'aide des joysticks de la télécommande
+##
+## Lecture de la théorie: 30 minutes
+## Stopper le drone à l'aide d'un IR sensor: 10 minutes
+## Contrôle de la hauteur: 25 minutes
+## Contrôle de la roation: 15 minutes
+## Contrôle des déplacements latéraux: 10 minutes
