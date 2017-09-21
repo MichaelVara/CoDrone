@@ -57,3 +57,16 @@
 ## Base: Projet 3
 ## Réglages du petit bruitage: 10 minutes
 ## Connexion continu: 10 minutes
+##
+##
+# Projet 5
+## Nom: Slingshot
+## Description: Le drone décollera lorsque le joystick gauche sera maintenu en bas puis relaché. Le drone s'envolera et gagnera de la hauteur aussi longtemps que le joystick bas aura été maintenu, puis il retournera se reposer
+##
+## Lecture de la théorie: 25 minutes
+## Codage: 25 minutes
+## Reglages des valeurs pour la montee: 10 minutes
+## Bug: le drone ne s'envole pas haut mais pendant la bonne durée
+## Solution: refaire le code en utiliant des flags
+## Codage: 15 minutes
+## Reglages des valeurs pour la montee: 15 minutes
