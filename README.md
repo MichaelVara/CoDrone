@@ -70,3 +70,12 @@
 ## Solution: refaire le code en utiliant des flags
 ## Codage: 15 minutes
 ## Reglages des valeurs pour la montee: 15 minutes
+##
+##
+# Projet 6
+## Nom: Double Rainbow
+## Description: Les yeux du drone vont varier entre trois couleurs toutes les secondes. Les couleurs des "bras" vont varier entre deux couleurs toutes les 1,2 secondes et le contrôlleur permet de contrôler le drone
+## Base: Projet 4
+##
+## Lecture de la théorie: 10 minutes
+## Test des couleurs: 20 minutes
