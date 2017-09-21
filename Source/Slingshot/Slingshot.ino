@@ -1,4 +1,4 @@
-// Nom: Code finale Bases
+// Nom: Slingshot
 // Auteur: Michael Vara
 // Date: 21/09/2017
 // Description: Le drone decollera lorsque le joystick gauche sera maintenu en bas puis relaché. 
