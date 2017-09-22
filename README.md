@@ -70,3 +70,11 @@
 ## Solution: refaire le code en utiliant des flags
 ## Codage: 15 minutes
 ## Reglages des valeurs pour la montee: 15 minutes
+##
+##
+# Projet 6
+## Nom: Projet ultime
+## Description: le drone décolle depuis la main de quelqu'un, fait le tour de sa main et vient se reposer dessus
+##
+## Codage: 10 minutes
+## Réglages des valeurs: 40 minutes
